@@ -1,0 +1,685 @@
+{
+  "colors": {
+    "Dark Gray": {
+      "opacity": 1,
+      "value": "#212121",
+      "blendMode": "normal",
+      "extensions": {
+        "styleId": "S:1f4e0bc5e7258305a252fc6b953f1394167860e0,"
+      },
+      "name": "Dark Gray"
+    },
+    "Medium Gray": {
+      "opacity": 1,
+      "value": "#666666",
+      "blendMode": "normal",
+      "extensions": {
+        "styleId": "S:b323d2f7a9d52f282d8b4d01bc96938f26a6310b,"
+      },
+      "name": "Medium Gray"
+    },
+    "Light Gray": {
+      "opacity": 1,
+      "value": "#e0e0e0",
+      "blendMode": "normal",
+      "extensions": {
+        "styleId": "S:2c8a4e14f61d04aa458f21f6cba4f638ce6c082d,"
+      },
+      "name": "Light Gray"
+    },
+    "White": {
+      "opacity": 1,
+      "value": "#ffffff",
+      "blendMode": "normal",
+      "extensions": {
+        "styleId": "S:611fba7f86290097b36e56fd6eea102dff7b2528,"
+      },
+      "name": "White"
+    },
+    "Background": {
+      "opacity": 1,
+      "value": "#f7f7f7",
+      "blendMode": "normal",
+      "extensions": {
+        "styleId": "S:cb745d41c6f2691ac257eba21f935f04609033f4,"
+      },
+      "name": "Background"
+    },
+    "Normal": {
+      "opacity": 1,
+      "value": "#aaa67f",
+      "blendMode": "normal",
+      "extensions": {
+        "styleId": "S:43e78d30d73e3414541b1c0940b212772bc6bb63,"
+      },
+      "name": "Normal"
+    },
+    "Fighting": {
+      "opacity": 1,
+      "value": "#c12239",
+      "blendMode": "normal",
+      "extensions": {
+        "styleId": "S:8c75738ee51c0f488fe7c5dd81fc96188647b945,"
+      },
+      "name": "Fighting"
+    },
+    "Flying": {
+      "opacity": 1,
+      "value": "#a891ec",
+      "blendMode": "normal",
+      "extensions": {
+        "styleId": "S:ef71a9d9fb488f96ffec77713e77aab27ce2b67a,"
+      },
+      "name": "Flying"
+    },
+    "Poison": {
+      "opacity": 1,
+      "value": "#a43e9e",
+      "blendMode": "normal",
+      "extensions": {
+        "styleId": "S:8a45a57b727ccf8ea045e48dba158308fe94bc1b,"
+      },
+      "name": "Poison"
+    },
+    "Ground": {
+      "opacity": 1,
+      "value": "#dec16b",
+      "blendMode": "normal",
+      "extensions": {
+        "styleId": "S:9e83d3c45a0c2baae3539ad655463dc1428a238d,"
+      },
+      "name": "Ground"
+    },
+    "Rock": {
+      "opacity": 1,
+      "value": "#b69e31",
+      "blendMode": "normal",
+      "extensions": {
+        "styleId": "S:f448c0849e090f29bb46dccda9707e0562b24d32,"
+      },
+      "name": "Rock"
+    },
+    "Bug": {
+      "opacity": 1,
+      "value": "#a7b723",
+      "blendMode": "normal",
+      "extensions": {
+        "styleId": "S:de2ae506313926151ebb2f37faeb00ce0e7ad35f,"
+      },
+      "name": "Bug"
+    },
+    "Ghost": {
+      "opacity": 1,
+      "value": "#70559b",
+      "blendMode": "normal",
+      "extensions": {
+        "styleId": "S:c5ba43bb9bf8d2083cae94b920801b90419c04ed,"
+      },
+      "name": "Ghost"
+    },
+    "Steel": {
+      "opacity": 1,
+      "value": "#b7b9d0",
+      "blendMode": "normal",
+      "extensions": {
+        "styleId": "S:0a16fd6231aa21447ffd47dc552e8a247ab002e1,"
+      },
+      "name": "Steel"
+    },
+    "Fire": {
+      "opacity": 1,
+      "value": "#f57d31",
+      "blendMode": "normal",
+      "extensions": {
+        "styleId": "S:2524f3acabd6aac454b3e253f1f65f562c666ea9,"
+      },
+      "name": "Fire"
+    },
+    "Water": {
+      "opacity": 1,
+      "value": "#6493eb",
+      "blendMode": "normal",
+      "extensions": {
+        "styleId": "S:d841f1fa9dc0120f09cd290bd53a3ad66b8577a3,"
+      },
+      "name": "Water"
+    },
+    "Grass": {
+      "opacity": 1,
+      "value": "#74cb48",
+      "blendMode": "normal",
+      "extensions": {
+        "styleId": "S:e93f5e0734375e1887ae02e75d8176220d77105f,"
+      },
+      "name": "Grass"
+    },
+    "Electric": {
+      "opacity": 1,
+      "value": "#f9cf30",
+      "blendMode": "normal",
+      "extensions": {
+        "styleId": "S:309b34f6c3a13c8db1172d788dc388772ccabf67,"
+      },
+      "name": "Electric"
+    },
+    "Psychic": {
+      "opacity": 1,
+      "value": "#fb5584",
+      "blendMode": "normal",
+      "extensions": {
+        "styleId": "S:1355a65f56ae1aacb69b81f4b65dd29e8702184c,"
+      },
+      "name": "Psychic"
+    },
+    "Ice": {
+      "opacity": 1,
+      "value": "#9ad6df",
+      "blendMode": "normal",
+      "extensions": {
+        "styleId": "S:80bd75055025550c9af3308574adb412d103ed96,"
+      },
+      "name": "Ice"
+    },
+    "Dragon": {
+      "opacity": 1,
+      "value": "#7037ff",
+      "blendMode": "normal",
+      "extensions": {
+        "styleId": "S:f45ae058d2f955301c2d2ffee1a280b37d5edb51,"
+      },
+      "name": "Dragon"
+    },
+    "Dark": {
+      "opacity": 1,
+      "value": "#75574c",
+      "blendMode": "normal",
+      "extensions": {
+        "styleId": "S:3fda7341ebc6c5276cdc74fc9d9a6f09c177fc6b,"
+      },
+      "name": "Dark"
+    },
+    "Fairy": {
+      "opacity": 1,
+      "value": "#e69eac",
+      "blendMode": "normal",
+      "extensions": {
+        "styleId": "S:53f4fb37c4d1911ef676e6b8ce7fd67974ff8b2f,"
+      },
+      "name": "Fairy"
+    },
+    "Wireframe": {
+      "opacity": 1,
+      "value": "#b7b7b7",
+      "blendMode": "normal",
+      "extensions": {
+        "styleId": "S:5ab0f80b9d68341fea05a33a096e237cac6dbc49,"
+      },
+      "name": "Wireframe"
+    }
+  },
+  "typography": {
+    "Poppins": {
+      "Poppins Regular 8": {
+        "fontFamily": {
+          "type": "String",
+          "value": "Poppins"
+        },
+        "fontStyle": {
+          "type": "String",
+          "value": "Regular"
+        },
+        "fontSize": {
+          "type": "dimension",
+          "value": 8
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "NONE"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 400
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 12
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "ORIGINAL"
+        },
+        "name": {
+          "type": "String",
+          "value": "Poppins Regular 8"
+        }
+      },
+      "Poppins Regular 10": {
+        "fontFamily": {
+          "type": "String",
+          "value": "Poppins"
+        },
+        "fontStyle": {
+          "type": "String",
+          "value": "Regular"
+        },
+        "fontSize": {
+          "type": "dimension",
+          "value": 10
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "NONE"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 400
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 16
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "ORIGINAL"
+        },
+        "name": {
+          "type": "String",
+          "value": "Poppins Regular 10"
+        }
+      },
+      "Poppins Regular 12": {
+        "fontFamily": {
+          "type": "String",
+          "value": "Poppins"
+        },
+        "fontStyle": {
+          "type": "String",
+          "value": "Regular"
+        },
+        "fontSize": {
+          "type": "dimension",
+          "value": 12
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "NONE"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 400
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 16
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "ORIGINAL"
+        },
+        "name": {
+          "type": "String",
+          "value": "Poppins Regular 12"
+        }
+      },
+      "Poppins Regular 14": {
+        "fontFamily": {
+          "type": "String",
+          "value": "Poppins"
+        },
+        "fontStyle": {
+          "type": "String",
+          "value": "Regular"
+        },
+        "fontSize": {
+          "type": "dimension",
+          "value": 14
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "NONE"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 400
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 16
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "ORIGINAL"
+        },
+        "name": {
+          "type": "String",
+          "value": "Poppins Regular 14"
+        }
+      },
+      "Poppins Regular 24": {
+        "fontFamily": {
+          "type": "String",
+          "value": "Poppins"
+        },
+        "fontStyle": {
+          "type": "String",
+          "value": "Regular"
+        },
+        "fontSize": {
+          "type": "dimension",
+          "value": 24
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "NONE"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 400
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 32
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "ORIGINAL"
+        },
+        "name": {
+          "type": "String",
+          "value": "Poppins Regular 24"
+        }
+      },
+      "Poppins Bold 8": {
+        "fontFamily": {
+          "type": "String",
+          "value": "Poppins"
+        },
+        "fontStyle": {
+          "type": "String",
+          "value": "Bold"
+        },
+        "fontSize": {
+          "type": "dimension",
+          "value": 8
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "NONE"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 700
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 12
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "ORIGINAL"
+        },
+        "name": {
+          "type": "String",
+          "value": "Poppins Bold 8"
+        }
+      },
+      "Poppins Bold 10": {
+        "fontFamily": {
+          "type": "String",
+          "value": "Poppins"
+        },
+        "fontStyle": {
+          "type": "String",
+          "value": "Bold"
+        },
+        "fontSize": {
+          "type": "dimension",
+          "value": 10
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "NONE"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 700
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 16
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "ORIGINAL"
+        },
+        "name": {
+          "type": "String",
+          "value": "Poppins Bold 10"
+        }
+      },
+      "Poppins Bold 12": {
+        "fontFamily": {
+          "type": "String",
+          "value": "Poppins"
+        },
+        "fontStyle": {
+          "type": "String",
+          "value": "Bold"
+        },
+        "fontSize": {
+          "type": "dimension",
+          "value": 12
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "NONE"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 700
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 16
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "ORIGINAL"
+        },
+        "name": {
+          "type": "String",
+          "value": "Poppins Bold 12"
+        }
+      },
+      "Poppins Bold 14": {
+        "fontFamily": {
+          "type": "String",
+          "value": "Poppins"
+        },
+        "fontStyle": {
+          "type": "String",
+          "value": "Bold"
+        },
+        "fontSize": {
+          "type": "dimension",
+          "value": 14
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "NONE"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 700
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 16
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "ORIGINAL"
+        },
+        "name": {
+          "type": "String",
+          "value": "Poppins Bold 14"
+        }
+      },
+      "Poppins Bold 24": {
+        "fontFamily": {
+          "type": "String",
+          "value": "Poppins"
+        },
+        "fontStyle": {
+          "type": "String",
+          "value": "Bold"
+        },
+        "fontSize": {
+          "type": "dimension",
+          "value": 24
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "NONE"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 700
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 32
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "ORIGINAL"
+        },
+        "name": {
+          "type": "String",
+          "value": "Poppins Bold 24"
+        }
+      }
+    }
+  },
+  "osType": "iOS"
+}
