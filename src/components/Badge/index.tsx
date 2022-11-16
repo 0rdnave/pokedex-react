@@ -1,4 +1,4 @@
-import * as React from "react";
+import { text } from "styles/theme/typography";
 
 export interface BadgeProps {
   baseColor: string;
@@ -11,6 +11,11 @@ export function Badge(props: BadgeProps) {
     <div
       style={{
         backgroundColor: baseColor,
+        fontSize: `${text.fontSize}`,
+        lineHeight: `${text.lineHeight}`,
+        borderRadius: "10px",
+        padding: "2px 8px",
+        color: "white",
       }}
     >
       {name}
